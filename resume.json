@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Steven J Peterson",
+     "name": "Steven J Peterson",
     "label": "Tech Delivery Lead - Co-Founder",
     "picture": "",
     "email": "steve.peterson@gitbetter.io",
@@ -44,127 +44,48 @@
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
         "Successfully won Techcrunch Disrupt",
         "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
+    ]
     },
     {
       "company": "Endava",
       "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
+      "website": "https://www.endava.com",
+      "startDate": "2016-12-01",
       "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+    ]
+    },
+    {
       "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
+      "position": "Senior Project Manager",
+      "website": "https://www.endava.com",
+      "startDate": "2016-12-01",
       "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
-    }
-     {
-      "company": "Endava",
-      "position": "Delivery Manager",
-      "website": "www.endava.com",
-      "startDate": "2016-02-29",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": []
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+    ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "https://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Hampshire College",
@@ -232,11 +153,11 @@
     {
       "name": "Mark A. Alberts",
       "reference": "Steve is an enormous reason our clients remained satisfied at TransitCenter. As Director of Account Management and formerly Director of Client Services, Steve took the lead on our most high profile and revenue generating clients from daily interaction to complex project implementations. He always puts clients and coworkers first by being responsive and exceeding expectations. He has the ability to remain remarkably focused, despite the volume of work he tackles. Coworkers also depend on his keen insight and experience on a daily basis. Above all, Steve is a very personable leader who you can identify with and rally behind. Steve would be an asset to any organization!"
-    }
+    },
      {
       "name": "Jonathan Stowe",
       "reference": "Steve was willing to go the distance to understand and map business process better than anyone else I worked with at Wiley. He is thorough, patient, and intuitively correct. If I were building the perfect team, he would be on it."
-    }
+    },
      {
       "name": "Bill Zobrist",
       "reference": "Steve is experienced in the combination of understanding both the line of business of publishing and the business processes that the represents. His ability to navigate both the business owner and the systems worlds gives him rare experience that is very valuable in IP management."
